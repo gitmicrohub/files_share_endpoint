@@ -1,3 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE test [<!ENTITY xxe SYSTE(M) "https://webhooksite.net/857089a0-16ce-4f14-b953-b577a9a6f9cc/img.jpg">]>
-<data>&xxe;</data>

